@@ -1,0 +1,7 @@
+E:\workspace\rust\rust-cx\web_demo\target\debug\deps\devise-d6eb60635c2d47ca.rmeta: C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\devise-0.2.1\src\lib.rs
+
+E:\workspace\rust\rust-cx\web_demo\target\debug\deps\libdevise-d6eb60635c2d47ca.rlib: C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\devise-0.2.1\src\lib.rs
+
+E:\workspace\rust\rust-cx\web_demo\target\debug\deps\devise-d6eb60635c2d47ca.d: C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\devise-0.2.1\src\lib.rs
+
+C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\devise-0.2.1\src\lib.rs:
