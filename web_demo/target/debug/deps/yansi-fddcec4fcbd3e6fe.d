@@ -1,0 +1,10 @@
+e:\workspace\rust\rust-cx\web_demo\target\debug\deps\yansi-fddcec4fcbd3e6fe.rmeta: C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\lib.rs C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\macros.rs C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\windows.rs C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\paint.rs C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\style.rs C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\color.rs
+
+e:\workspace\rust\rust-cx\web_demo\target\debug\deps\yansi-fddcec4fcbd3e6fe.d: C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\lib.rs C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\macros.rs C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\windows.rs C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\paint.rs C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\style.rs C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\color.rs
+
+C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\lib.rs:
+C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\macros.rs:
+C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\windows.rs:
+C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\paint.rs:
+C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\style.rs:
+C:\Users\86176\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\yansi-0.5.1\src\color.rs:
