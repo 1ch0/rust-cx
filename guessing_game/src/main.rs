@@ -1,4 +1,4 @@
-use rand::Rng; use core::num;
+use rand::Rng;
 // trait
 use std::io; // preclude
 use std::cmp::Ordering; // trait
