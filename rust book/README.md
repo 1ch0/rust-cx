@@ -1,1 +1,1 @@
-# Rust 程序设计语言
+# [Rust 程序设计语言](https://rustwiki.org/zh-CN/book/)
